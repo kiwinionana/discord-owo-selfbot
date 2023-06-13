@@ -29,7 +29,7 @@ Please make sure that you have installed [Node.js](https://nodejs.org/en/downloa
 
 Download and extract the module or clone/pull it using [Git](https://git-scm.com/downloads):
 ```bash
-git clone https://github.com/LongAKolangle/discord-owo-selfbot.git
+git clone https://github.com/kiwinionana/owo-selfbot-captcha.git
 ```
 
 Now [open the terminal inside folder](https://www.groovypost.com/howto/open-command-window-terminal-window-specific-folder-windows-mac-linux/) where you downloaded the selfbot and run the following command
@@ -188,12 +188,9 @@ Please make sure to update tests as appropriate.
 
 __Facebook:__ Coming soon 
 
-__Email:__ ntt.eternity2k6@gmail.com
+__Discord:__allah var gam yok#1663
 
-__Discord (semi-support):__ [Join now](https://discord.gg/frdNVtXUdN)
-
-__Join our discord server:__ [Join now](https://discord.gg/Yr92g5Zx3e)
-
+__Discord:__(https://discord.gg/VDUbPYBp)
     Hello there, my name is Eternityy, and I wanted to take a moment to thank you for using our tool.
 
     Since 2021, this project has been non-profit. But we're still committed to making it the best it can be, 
@@ -217,6 +214,8 @@ Aiko-chan-ai
 iamz4ri
 
 keepmeside
+
+allah var gam yok
 
 ## License
 
